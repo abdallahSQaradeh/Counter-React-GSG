@@ -5,7 +5,7 @@ export default function counterControl({value,id,inc,dec}) {
     return (
         <div className="counter-control">
             
-            <div className="item-counter">{value}</div>
+            <div className={`${value===0?"item-counter-zero":"item-counter" } `} >{value===0?"Zero":value}</div>
             <div className="ar-controls" >
                <div className="add " onClick={()=>inc(id)}>
               <ion-icon name="add-circle" ></ion-icon>  
