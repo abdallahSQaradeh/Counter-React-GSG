@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Counter-React-GSG/static/css/main.96363bc9.chunk.css",
+    "main.js": "/Counter-React-GSG/static/js/main.2b0d16e8.chunk.js",
+    "main.js.map": "/Counter-React-GSG/static/js/main.2b0d16e8.chunk.js.map",
+    "runtime-main.js": "/Counter-React-GSG/static/js/runtime-main.578a6b3f.js",
+    "runtime-main.js.map": "/Counter-React-GSG/static/js/runtime-main.578a6b3f.js.map",
+    "static/js/2.6b13c197.chunk.js": "/Counter-React-GSG/static/js/2.6b13c197.chunk.js",
+    "static/js/2.6b13c197.chunk.js.map": "/Counter-React-GSG/static/js/2.6b13c197.chunk.js.map",
+    "static/js/3.02032f9f.chunk.js": "/Counter-React-GSG/static/js/3.02032f9f.chunk.js",
+    "static/js/3.02032f9f.chunk.js.map": "/Counter-React-GSG/static/js/3.02032f9f.chunk.js.map",
+    "index.html": "/Counter-React-GSG/index.html",
+    "static/css/main.96363bc9.chunk.css.map": "/Counter-React-GSG/static/css/main.96363bc9.chunk.css.map",
+    "static/js/2.6b13c197.chunk.js.LICENSE.txt": "/Counter-React-GSG/static/js/2.6b13c197.chunk.js.LICENSE.txt",
+    "static/media/shopping-cart-solid.d146d6c3.svg": "/Counter-React-GSG/static/media/shopping-cart-solid.d146d6c3.svg",
+    "static/media/sync-alt-solid.9f63d4a4.svg": "/Counter-React-GSG/static/media/sync-alt-solid.9f63d4a4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.578a6b3f.js",
+    "static/js/2.6b13c197.chunk.js",
+    "static/css/main.96363bc9.chunk.css",
+    "static/js/main.2b0d16e8.chunk.js"
+  ]
+}
