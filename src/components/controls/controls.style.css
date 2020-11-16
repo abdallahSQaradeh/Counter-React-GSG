@@ -1,0 +1,23 @@
+.controls{
+    display:flex;
+    flex-direction:column;
+    align-items: end;
+    justify-content: center;
+    width:480px;
+    margin-top:10px;
+    margin-left:170px;
+}
+.ion-loop{
+    
+    background-color: #28A744;
+    padding:1px 3px 1px 3px;
+    border-radius:4px;
+    color:white;
+}
+
+.ion-loop:hover{
+    cursor:pointer;
+}
+.controlsButtons{
+    margin-top:10px;
+}
