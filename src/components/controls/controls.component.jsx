@@ -5,7 +5,8 @@ import CounterControl from "./counter-control/counter-control.component"
 export default function controls(props) {
     return (
         <div className="controls">
-           <div className="ion-loop" onClick={props.reset}></div>
+            
+           <div className="ion-loop" onClick={props.reset}><ion-icon name="refresh" ></ion-icon></div>
 
             <div className="controlsButtons">
            {props.counters.map((counter, id)=>
