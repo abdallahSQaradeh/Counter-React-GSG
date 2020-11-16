@@ -1,0 +1,27 @@
+.header{
+    width:100%;
+    background-color:#F9F9FB;
+    background-image: linear-gradient(to left ,#93d3dd,#b2dae0cc,white);
+    display:flex;
+    align-items:center;
+    height:40px;
+}
+.header-items{
+    width: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 20px;
+}
+.result{
+    width: 30px;
+    background-color: #18A1BA;
+    padding: 0px;
+    text-align: center;
+    border-radius: 12px;
+    font-size: 11px;
+    color: white;
+}
+.items{
+    font-size: 12px;
+}
